@@ -1,0 +1,18 @@
+One of my Personl Favorite Projects, created my own custom bash. This project was inspired from what I have learned in CSC 246: Operating Systems.
+
+Get Started:
+To get started with working on the project, follow these steps:
+1. Clone the repository
+2. CD into the working directory src
+3. Run make
+
+Our shell will support three built-in commands. These are listed below. For these, the shell will just
+check the  rst word of the command. 
+
+Using the Program:
+If it's "\cd", the shell will run the built-in cd command. 
+If it's \exit 0", the shell will run the built-in exit command. 
+The stash can run all the valid shell comands such as:
+ls, ls -l, rm, mkdir, etc ..
+If the input line is empty, the shell will just ignore
+the command and prompt the user again.
